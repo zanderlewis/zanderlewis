@@ -1,4 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7UY6R4)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfthedeveloper)](https://github.com/anuraghazra/github-readme-stats)
 # Hello
 
 ## About Me
