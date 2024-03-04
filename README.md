@@ -1,5 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7UY6R4)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfthedeveloper&show_icons=true&theme=transparent)]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfthedeveloper&show_icons=true&theme=transparent)
 # Hello
 
 ## About Me
