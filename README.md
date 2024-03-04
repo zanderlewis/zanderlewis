@@ -1,5 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7UY6R4)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfthedeveloper&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 # Hello
 
 ## About Me
