@@ -12,7 +12,7 @@
 
 # Hello
 
-- 15 year old Full Stack Developer in training.
+- 15 year old Full Stack and Software Developer in training.
 
 - Python dev and PHP dev in training.
 
