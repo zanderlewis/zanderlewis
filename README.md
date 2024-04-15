@@ -5,6 +5,9 @@
 
 
 <p align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views)
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,php,py" />
   </a>
