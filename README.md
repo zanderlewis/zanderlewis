@@ -4,7 +4,9 @@
 </div>
 
 <div align="center">
+  
   ![Views](https://komarev.com/ghpvc/?username=WolfTheDeveloper&style=flat&color=313131&label=views)
+
 </div>
 
 <p align="center">
