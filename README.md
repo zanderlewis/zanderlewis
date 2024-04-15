@@ -3,9 +3,9 @@
   <br><br> 
 </div>
 
-<p align="center">
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views)
-</p>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
