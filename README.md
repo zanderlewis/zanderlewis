@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views)
+  ![Views](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views)
 </div>
 
 <p align="center">
