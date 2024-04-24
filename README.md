@@ -38,7 +38,7 @@ My name is Zander and programming is my passion. I am the Co-Owner/Co-Founder/De
 <div align="center">
   <br>
 
-  [Stats](https://github-profile-trophy.vercel.app/?username=WolfTheDeveloper&theme=discord)
+  ![Stats](https://github-profile-trophy.vercel.app/?username=WolfTheDeveloper&theme=discord)
   
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfthedeveloper&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
