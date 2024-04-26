@@ -21,15 +21,17 @@
 
 # Hello
 
-15 year old Full Stack and Software Developer in training.
+15 year old Software Developer.
 
-Python dev and PHP dev in training.
+Python dev.
+
+AI dev in training.
 
 ## About Me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7UY6R4)
 
-My name is Zander and programming is my passion. I am the Co-Owner/Co-Founder/Developer of postaverse.net. I am also the Owner and Founder of the Diamondback programming language.
+My name is Zander and programming is my passion. I am the Co-Owner/Co-Founder/Developer of postaverse.net. I am also the Owner and Founder of the Diamondback programming language and creator of the AI VTuber Willo.
 
 ## Stats
 
