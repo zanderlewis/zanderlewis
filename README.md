@@ -33,6 +33,8 @@ AI dev in training.
 
 My name is Zander and programming is my passion. I am the Co-Owner/Co-Founder/Developer of postaverse.net. I am also the Owner and Founder of the Diamondback programming language and creator of the AI VTuber Willo.
 
+My goal is to make programming easy for non-programmers.
+
 ## Stats
 
 </div>
