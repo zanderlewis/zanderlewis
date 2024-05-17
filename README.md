@@ -27,6 +27,8 @@ Python dev.
 
 AI dev in training.
 
+Working on [Elide.](https://github.com/elide-dev/)
+
 ## About Me
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7UY6R4)
