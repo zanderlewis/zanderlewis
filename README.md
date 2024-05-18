@@ -44,7 +44,7 @@ My goal is to make programming easy for non-programmers.
 <div align="center">
   <br>
     
-  <script src="https://gist.github.com/WolfTheDeveloper/c04a38ba711de5c27c7fab6951caf70d.js"><script>
+  <script src="https://gist.github.com/WolfTheDeveloper/c04a38ba711de5c27c7fab6951caf70d.js"></script>
 
   ![Stats](https://github-profile-trophy.vercel.app/?username=WolfTheDeveloper&theme=discord&column=3)
   
