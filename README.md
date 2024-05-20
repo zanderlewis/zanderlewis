@@ -44,9 +44,9 @@ My goal is to make programming easy for non-programmers.
 <div align="center">
   <br>
 
-  ![Stats](https://github-profile-trophy.vercel.app/?username=WolfTheDeveloper&theme=discord&column=3)
+  ![Stats](https://github-profile-trophy.vercel.app/?username=zanderlewis&theme=discord&column=3)
   
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfthedeveloper&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanderlewis&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfthedeveloper&layout=compact&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanderlewis&layout=compact&theme=transparent)
 </div>
