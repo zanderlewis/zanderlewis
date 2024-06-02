@@ -48,7 +48,7 @@ My goal is to make programming easy for non-programmers.
 <div align="center">
   <br>
 
-  [![wakatime](https://wakatime.com/badge/user/2f94f83c-7859-4053-a093-81ba6053e5e3.svg)](https://wakatime.com/@2f94f83c-7859-4053-a093-81ba6053e5e3)]
+  [![wakatime](https://wakatime.com/badge/user/2f94f83c-7859-4053-a093-81ba6053e5e3.svg)](https://wakatime.com/@2f94f83c-7859-4053-a093-81ba6053e5e3)
 
   ![Stats](https://github-profile-trophy.vercel.app/?username=zanderlewis&theme=discord&column=3)
   
