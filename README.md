@@ -48,7 +48,7 @@ My goal is to make programming easy for non-programmers.
 <div align="center">
   <br>
 
-  <figure><embed src="https://wakatime.com/share/@2f94f83c-7859-4053-a093-81ba6053e5e3/52e43580-a828-4de5-9e4a-2726e0a10492.svg"></embed></figure>
+  ![wakatime](https://wakatime.com/badge/user/2f94f83c-7859-4053-a093-81ba6053e5e3.svg)](https://wakatime.com/@2f94f83c-7859-4053-a093-81ba6053e5e3)
 
   ![Stats](https://github-profile-trophy.vercel.app/?username=zanderlewis&theme=discord&column=3)
   
