@@ -5,13 +5,13 @@
 
 <div align="center">
   
-  ![Views](https://komarev.com/ghpvc/?username=WolfTheDeveloper&style=flat&color=313131&label=views)
+  ![Views](https://komarev.com/ghpvc/?username=WolfTheDeveloper&style=flat&color=313131&label=Views)
 
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
 
