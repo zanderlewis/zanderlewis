@@ -37,7 +37,7 @@ Dad: [@chrisnetonline (Chris Lewis)](https://github.com/chrisnetonline)
 
 ## About Me
 
-My name is Zander and programming is my passion. I am the Co-Owner/Co-Founder/Developer of postaverse.net. I am also the Owner and Founder of the Diamondback programming language and creator of the AI VTuber Willow.
+My name is Zander and programming is my passion. I am the Co-Owner/Co-Founder/Developer of postaverse.net. I am also the Owner and Founder of the Diamondback programming language, the VOR programming language, and creator of the AI VTuber Willow.
 
 My goal is to make programming easy for non-programmers.
 
