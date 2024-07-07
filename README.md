@@ -13,6 +13,7 @@
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=apple" />
       <br>
+      <br>
       <img src="https://skillicons.dev/icons?i=ps,vscode,py,php,laravel" />
   </a>
 </p>
