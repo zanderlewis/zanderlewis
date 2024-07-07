@@ -11,11 +11,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,php,laravel" />
   </a>
 </p>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=zapalew&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
 
 <div align="center">
 
@@ -23,11 +21,11 @@
 
 15 year old Software Developer.
 
-Python dev.
+Python/PhP dev.
 
 AI dev in training.
 
-Working on [Elide.](https://github.com/elide-dev/)
+Working on [Elide](https://github.com/elide-dev/) and [Postaverse](https://postaverse.net/)
 
 ## Family
 
