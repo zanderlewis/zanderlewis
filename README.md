@@ -21,7 +21,7 @@
 
 15 year old Software Developer.
 
-Python/PhP dev.
+Python/PHP dev.
 
 AI dev in training.
 
