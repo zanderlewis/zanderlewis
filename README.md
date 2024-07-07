@@ -11,8 +11,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=apple" />
-    <img src="https://skillicons.dev/icons?i=ps,vscode,py,php,laravel" />
+      <img src="https://skillicons.dev/icons?i=apple" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=ps,vscode,py,php,laravel" />
   </a>
 </p>
 
