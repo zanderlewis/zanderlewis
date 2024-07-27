@@ -59,7 +59,6 @@ My goal is to make programming easy for non-programmers.
 
   ![Stats](https://github-profile-trophy.vercel.app/?username=zanderlewis&theme=discord&column=3)
   
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanderlewis&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zanderlewis&layout=compact&theme=transparent)
+  <img src="https://github.com/zanderlewis/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/zanderlewis/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
