@@ -28,7 +28,7 @@ Python/PHP dev.
 
 AI dev in training.
 
-Working on [Elide](https://github.com/elide-dev/) and [Postaverse](https://postaverse.net/)
+Working on [Kid Safe Internet](https://github.com/kidsafeinternet/) and [Postaverse](https://postaverse.net/)
 
 ## Family
 
