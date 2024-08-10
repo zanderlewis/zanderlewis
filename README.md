@@ -1,64 +1,74 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
-  <br><br> 
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"  />
 </div>
+
+###
 
 <div align="center">
-  
-  ![Views](https://komarev.com/ghpvc/?username=WolfTheDeveloper&style=flat&color=313131&label=Views)
-
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apple" />
-      <br>
-      <br>
-      <img src="https://skillicons.dev/icons?i=ps,vscode,py,php,laravel" />
+  <a href="mailto:zander@zanderlewis.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=zander@zanderlewis.dev&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</p>
-
-<div align="center">
-
-# Hello
-
-15 year old Software Developer.
-
-Python/PHP dev.
-
-AI dev in training.
-
-Working on [Kid Safe Internet](https://github.com/kidsafeinternet/) and [Postaverse](https://postaverse.net/)
-
-## Family
-
-Me: [@zanderlewis (Zander Lewis)](https://github.com/zanderlewis)
-
-Dad: [@chrisnetonline (Chris Lewis)](https://github.com/chrisnetonline)
-
-## Friends
-
-Triston Penn: [@tristonpenn](https://github.com/tristonpenn)
-
-Calvare: [@calvare16](https://github.com/calvare16)
-
-## About Me
-
-My name is Zander and programming is my passion. I am the Co-Owner/Co-Founder/Developer of postaverse.net. I am also the Owner and Founder of the Diamondback programming language, the VOR programming language, and creator of the AI VTuber Willow.
-
-My goal is to make programming easy for non-programmers.
-
-## Stats
-
 </div>
 
+###
+
 <div align="center">
-  <br>
-
-  [![wakatime](https://wakatime.com/badge/user/2f94f83c-7859-4053-a093-81ba6053e5e3.svg)](https://wakatime.com/@2f94f83c-7859-4053-a093-81ba6053e5e3)
-
-  ![Stats](https://github-profile-trophy.vercel.app/?username=zanderlewis&theme=discord&column=3)
-  
-  <img src="https://github.com/zanderlewis/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/zanderlewis/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://profile-counter.glitch.me/zanderlewis/count.svg?"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Zander<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel.<br>- ⚡ In my free time I code.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zanderlewis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanderlewis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/zanderlewis/zanderlewis/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="center">Spotify</h1>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/zapalew">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zapalew&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
