@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Zander<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel.<br>- ⚡ In my free time I code.</p>
+<p align="left">I'm Zander Lewis<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel.<br>- ⚡ In my free time I code.</p>
 
 ###
 
@@ -36,6 +36,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
