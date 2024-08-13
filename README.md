@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Zander Lewis<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel.<br>- ⚡ In my free time I code.</p>
+<p align="left">I'm Zander Lewis, a 15 year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel.<br>- ⚡ In my free time I code.</p>
 
 ###
 
