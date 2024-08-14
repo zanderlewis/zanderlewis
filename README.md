@@ -21,7 +21,7 @@
 <h1 align="center">Hello</h1>
 
 
-Joined Github **0** years ago.
+I joined Github **0** years ago.
 
 Since then I pushed **1602** commits, opened **13** issues, submitted **74** pull requests, received **113** stars across **46** personal projects and contributed to **49** public repositories.
 
