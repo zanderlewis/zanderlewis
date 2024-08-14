@@ -54,8 +54,8 @@
 
 <div align="left">
   <ul>
-    <li>Max in <a href="maxsslimeshop.com">Max's Slime Shop</a></li>
-    <li>Chris on <a href="github.com/chrisnetonline">Github</a></li>
+    <li>Max in <a href="https://maxsslimeshop.com">Max's Slime Shop</a></li>
+    <li>Chris on <a href="https://github.com/chrisnetonline">Github</a></li>
   </ul>
 </div>
 
