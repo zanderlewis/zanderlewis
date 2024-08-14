@@ -53,7 +53,11 @@
 ###
 
 <div align="left">
-  <a href="maxsslimeshop.com">Max</a>
+  <ul>
+    <li>Max in <a href="maxsslimeshop.com">Max's Slime Shop</a></li>
+    <li>Chris on <a href="github.com/chisnetonline">Github</a></li>
+  </ul>
+</div>
 
 <h3 align="left">My Stats :</h3>
 
