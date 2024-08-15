@@ -21,9 +21,9 @@
 <h1 align="center">Hello</h1>
 
 
-I joined Github **0** years ago.
+I joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I pushed **1608** commits, opened **13** issues, submitted **74** pull requests, received **113** stars across **46** personal projects and contributed to **49** public repositories.
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 
 ###
@@ -32,7 +32,7 @@ Since then I pushed **1608** commits, opened **13** issues, submitted **74** pul
 
 ###
 
-<p align="left">I'm Zander Lewis, a **{{age}}** year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel.<br>- ⚡ In my free time I prefer to code than play video games.</p>
+<p align="left">I'm Zander Lewis, a **15** year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel.<br>- ⚡ In my free time I prefer to code than play video games.</p>
 
 ###
 
