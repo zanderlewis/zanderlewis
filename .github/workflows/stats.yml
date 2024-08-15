@@ -41,7 +41,7 @@ jobs:
         birth_date = datetime.date(2008, 9, 14)
         today = datetime.date.today()
         age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
-        with open('TEMPLATE.md', 'r') as template_file:
+        with open('README.md', 'r') as template_file:
             template_content = template_file.read()
         updated_content = template_content.replace('{{age}}', str(age))
         with open('README.md', 'w') as readme_file:
