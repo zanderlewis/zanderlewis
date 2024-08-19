@@ -86,7 +86,7 @@ Since then I pushed **1639** commits, opened **13** issues, submitted **75** pul
 
 <div align="center">
   <a href="https://open.spotify.com/user/zapalew">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zapalew&count=5&unique=true" alt="Spotify recently played" width="100%"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zapalew&count=5&unique=true" alt="Spotify recently played" width="50%"  />
   </a>
 </div>
 
