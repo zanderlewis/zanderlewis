@@ -86,7 +86,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 <div align="center">
   <a href="https://open.spotify.com/user/zapalew">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zapalew&count=5&unique=true" alt="Spotify recently played" width="100%"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zapalew&count=5&unique=true" alt="Spotify recently played" width="50%"  />
   </a>
 </div>
 
