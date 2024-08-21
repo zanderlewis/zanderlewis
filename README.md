@@ -32,7 +32,7 @@ Since then I pushed **1674** commits, opened **13** issues, submitted **75** pul
 
 ###
 
-<p align="left">I'm Zander Lewis, a <b>15</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and Fortran.<br>- ⚡ In my free time I prefer to code than play video games.</p>
+<p align="left">I'm Zander Lewis, a <b>{{age}}</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and Fortran.<br>- ⚡ In my free time I prefer to code than play video games.</p>
 
 ###
 
