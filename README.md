@@ -23,7 +23,7 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **1719** commits, opened **13** issues, submitted **75** pull requests, received **118** stars across **49** personal projects and contributed to **53** public repositories.
+Since then I pushed **1721** commits, opened **13** issues, submitted **75** pull requests, received **118** stars across **49** personal projects and contributed to **53** public repositories.
 
 
 ###
@@ -32,7 +32,7 @@ Since then I pushed **1719** commits, opened **13** issues, submitted **75** pul
 
 ###
 
-<p align="left">I'm Zander Lewis, a <b>15</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and Fortran.<br>- ⚡ In my free time I prefer to code than play video games.</p>
+<p align="left">I'm Zander Lewis, a <b>{{age}}</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and Fortran.<br>- ⚡ In my free time I prefer to code than play video games.</p>
 
 ###
 
@@ -71,7 +71,7 @@ Since then I pushed **1719** commits, opened **13** issues, submitted **75** pul
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zanderlewis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanderlewis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=16&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanderlewis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=165&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
