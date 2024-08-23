@@ -71,7 +71,7 @@ Since then I pushed **1741** commits, opened **13** issues, submitted **75** pul
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zanderlewis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanderlewis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=165&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanderlewis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
