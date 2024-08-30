@@ -32,7 +32,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 ###
 
-<p align="left">I'm Zander Lewis, a <b>{{age}}</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and Fortran.<br>- ⚡ In my free time I prefer to code than play video games.</p>
+<p align="left">I'm Zander Lewis, a <b>{{age}}</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and C.<br>- ⚡ In my free time I prefer to code than play video games.</p>
 
 ###
 
