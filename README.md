@@ -23,7 +23,7 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **2054** commits, opened **17** issues, submitted **82** pull requests, received **129** stars across **58** personal projects and contributed to **61** public repositories.
+Since then I pushed **2056** commits, opened **17** issues, submitted **82** pull requests, received **129** stars across **59** personal projects and contributed to **61** public repositories.
 
 
 ###
@@ -32,7 +32,7 @@ Since then I pushed **2054** commits, opened **17** issues, submitted **82** pul
 
 ###
 
-<p align="left">I'm Zander Lewis, a <b>15</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and C.<br>- ⚡ In my free time I prefer to code than play video games.</p>
+<p align="left">I'm Zander Lewis, a <b>{{age}}</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and C.<br>- ⚡ In my free time I prefer to code than play video games.</p>
 
 ###
 
