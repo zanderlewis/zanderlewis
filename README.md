@@ -18,12 +18,20 @@
 
 ###
 
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/2f94f83c-7859-4053-a093-81ba6053e5e3.svg)](https://wakatime.com/@2f94f83c-7859-4053-a093-81ba6053e5e3)
+
+</div>
+
+###
+
 <h1 align="center">Hello</h1>
 
 
 I joined Github **0** years ago.
 
-Since then I pushed **2083** commits, opened **18** issues, submitted **83** pull requests, received **130** stars across **59** personal projects and contributed to **62** public repositories.
+Since then I pushed **2084** commits, opened **18** issues, submitted **83** pull requests, received **130** stars across **59** personal projects and contributed to **62** public repositories.
 
 
 ###
@@ -32,7 +40,7 @@ Since then I pushed **2083** commits, opened **18** issues, submitted **83** pul
 
 ###
 
-<p align="left">I'm Zander Lewis, a <b>15</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and C.<br>- ⚡ In my free time I prefer to code than play video games.</p>
+<p align="left">I'm Zander Lewis, a <b>{{age}}</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel and C.<br>- ⚡ In my free time I prefer to code than play video games.</p>
 
 ###
 
