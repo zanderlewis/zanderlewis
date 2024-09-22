@@ -23,8 +23,8 @@ fn main() {
 
     // Replace the placeholder with the new number of the day
     let new_content = content.replace(
-        "### Number of the day: {{number_of_the_day}}",
-        &format!("### Number of the day: {}", number_of_the_day),
+        "{{number_of_the_day}}",
+        &format!("{}", number_of_the_day),
     );
 
     // Write the updated content back to README.md
