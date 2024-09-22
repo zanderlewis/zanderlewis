@@ -19,7 +19,6 @@ jobs:
           override: true
       - name: Run num_of_day script
         run: |
-          cd num_of_day_project
           cargo run --release > ../number_of_the_day.txt
       - name: Update README
         run: |
