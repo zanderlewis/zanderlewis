@@ -22,11 +22,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/2f94f83c-7859-4053-a093-81ba6053e5e3.svg)](https://wakatime.com/@2f94f83c-7859-4053-a093-81ba6053e5e3)
 
-</div>
-
 ###
 
 ### Number of the day: {{number_of_the_day}}
+
+</div>
 
 ###
 
