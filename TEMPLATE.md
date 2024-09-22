@@ -26,6 +26,10 @@
 
 ###
 
+### Number of the day: {{number_of_the_day}}
+
+###
+
 <h1 align="center">Hello</h1>
 
 
