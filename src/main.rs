@@ -1,6 +1,5 @@
 use rand::Rng;
-use std::{fs::OpenOptions, io::{Read, Write}};
-#[allow(unused_imports)]
+use std::{fs::OpenOptions, io::Read};
 use chrono::prelude::*;
 
 fn main() {
@@ -29,6 +28,5 @@ fn main() {
     );
 
     // Write the updated content back to README.md
-    file.set_len(0).expect("Unable to truncate file");
-    file.write_all(new_content.as_bytes()).expect("Unable to write data");
+    std::fs::write("README.md", new_content).expect("Unable to write data");
 }
