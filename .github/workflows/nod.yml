@@ -22,14 +22,6 @@ jobs:
       run: cargo run --release
       working-directory: ./src
 
-    - name: Move nod.txt to root
-      run: mv src/nod.txt nod.txt
-
-    - name: Update README
-      run: |
-        number=$(cat nod.txt | grep -oP 'Number of the day for \d{4}-\d{2}-\d{2}: \K-?\d+')
-        sed -i "s/Number of the day: .*/Number of the day: $number/" README.md
-
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
