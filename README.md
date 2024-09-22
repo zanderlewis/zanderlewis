@@ -24,7 +24,7 @@
 
 ###
 
-### Number of the day: {{number_of_the_day}}
+### Number of the day: -8381
 
 </div>
 
