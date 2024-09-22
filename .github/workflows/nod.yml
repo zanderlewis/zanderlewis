@@ -1,5 +1,4 @@
 name: Update Number of the Day
-
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
@@ -10,26 +9,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      - name: Set up Rust
-        uses: actions-rs/toolchain@v1
-        with:
-          toolchain: stable
-          override: true
-      - name: Run num_of_day script
-        run: |
-          cargo run --release > ../number_of_the_day.txt
-      - name: Update README
-        run: |
-          number=$(cat number_of_the_day.txt | grep -oP 'Number of the day for \d{4}-\d{2}-\d{2}: \K-?\d+')
-          sed -i "s/Number of the day: .*/Number of the day: $number/" README.md
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "[COMPILE] Number of the Day"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Rust
+      uses: actions-rs/toolchain@v1
+      with:
+        toolchain: stable
+        override: true
+
+    - name: Run num_of_day script
+      run: cargo run --release
+      working-directory: ./src
+
+    - name: Move nod.txt to root
+      run: mv src/nod.txt nod.txt
+
+    - name: Update README
+      run: |
+        number=$(cat nod.txt | grep -oP 'Number of the day for \d{4}-\d{2}-\d{2}: \K-?\d+')
+        sed -i "s/Number of the day: .*/Number of the day: $number/" README.md
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m "Update number of the day"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
