@@ -11,8 +11,9 @@ fn main() {
     let mut rng = rand::thread_rng();
     let number_of_the_day: i32 = rng.gen_range(-10000..=10000);
 
-    // Write the number to nod.txt (delete the file if it already exists)
-    let mut file = File::create("nod.txt").expect("Unable to create file");
-    let content = format!("Number of the day for {}: {}", date_str, number_of_the_day);
-    file.write_all(content.as_bytes()).expect("Unable to write data");
+    // Write content to README.md in place of `### Number of the day: {{number_of_the_day}}`
+    let content = format!("### Number of the day: {}", number_of_the_day);
+    let mut file = File::create("README.md").expect("Unable to create file");
+    file.write_all(content.as_bytes())
+        .expect("Unable to write data");
 }
