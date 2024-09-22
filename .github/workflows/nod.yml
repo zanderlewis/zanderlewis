@@ -1,7 +1,9 @@
 name: Update Number of the Day
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_run:
+    workflows: ["Stats/Age"]
+    types:
+        - completed
   workflow_dispatch:
 
 jobs:
