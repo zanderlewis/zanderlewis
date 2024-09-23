@@ -42,8 +42,8 @@ jobs:
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git config --global user.name 'Zander Lewis'
+        git config --global user.email 'zander@zanderlewis.dev'
         git add .
         git commit -m "[BOT] Update README"
         git push

@@ -1,8 +1,11 @@
 name: Update Number of the Hour
 
 on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
+  # Run after Stats/Age
+  workflow_run:
+    workflows: ["Stats/Age"]
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
