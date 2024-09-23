@@ -24,7 +24,7 @@
 
 ###
 
-### Number of the hour: {{number_of_the_day}}
+### Number of the hour: 1880
 
 </div>
 
