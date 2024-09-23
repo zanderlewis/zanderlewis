@@ -1,4 +1,4 @@
-name: Update Number of the Day
+name: Update Number of the Hour
 on:
   workflow_run:
     workflows: ["Stats/Age"]
@@ -20,7 +20,7 @@ jobs:
         toolchain: stable
         override: true
 
-    - name: Run num_of_day script
+    - name: Run num_of_hour script
       run: cargo run --release
 
     - name: Commit and push changes
@@ -28,7 +28,7 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         git add README.md
-        git commit -m "Update number of the day"
+        git commit -m "[BOT] no. of the hour"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

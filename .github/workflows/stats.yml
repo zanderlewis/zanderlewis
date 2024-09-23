@@ -23,16 +23,7 @@ jobs:
       uses: teoxoy/profile-readme-stats@v3
       with:
         token: ${{ secrets.USER_TOKEN }}
-    - name: Update README.md (STATS)
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "Update README (STATS)"
-        git push
-        fi
-    - name: Calculate age and update README
+    - name: Calculate age
       run: |
         export DISPLAY=:99
         nohup Xvfb :99 -screen 0 1024x768x24 &
@@ -48,12 +39,12 @@ jobs:
             readme_file.write(updated_content)
         print(f'Calculated Age: {age}')
         "
-    - name: Update README.md (AGE)
+    - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add .
-        git commit -m "Update README (AGE)"
+        git commit -m "[BOT] Update README"
         git push
         fi

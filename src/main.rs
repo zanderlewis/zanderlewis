@@ -1,16 +1,10 @@
 use rand::Rng;
 use std::{fs::OpenOptions, io::Read};
-use chrono::prelude::*;
 
 fn main() {
-    // Get the current date
-    let local: DateTime<Local> = Local::now();
-    #[allow(unused_variables)]
-    let date_str = local.format("%Y-%m-%d").to_string();
-
     // Seed the random number generator with the current date
     let mut rng = rand::thread_rng();
-    let number_of_the_day: i32 = rng.gen_range(-10000..=10000);
+    let number_of_the_hour: i32 = rng.gen_range(-999999..=999999);
 
     // Read the existing content of README.md
     let mut file = OpenOptions::new()
@@ -21,10 +15,10 @@ fn main() {
     let mut content = String::new();
     file.read_to_string(&mut content).expect("Unable to read data");
 
-    // Replace the placeholder with the new number of the day
+    // Replace the placeholder with the new number of the hour
     let new_content = content.replace(
-        "{{number_of_the_day}}",
-        &format!("{}", number_of_the_day),
+        "{{number_of_the_hour}}",
+        &format!("{}", number_of_the_hour),
     );
 
     // Write the updated content back to README.md
