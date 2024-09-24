@@ -24,7 +24,7 @@
 
 ###
 
-### Number of the hour: -974495
+### Number of the hour: -810933
 
 </div>
 
@@ -35,11 +35,15 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **2305** commits, opened **19** issues, submitted **84** pull requests, received **136** stars across **66** personal projects and contributed to **65** public repositories.
+Since then I pushed **2310** commits, opened **19** issues, submitted **84** pull requests, received **136** stars across **66** personal projects and contributed to **65** public repositories.
 
 ###
 
-Wait... If I joined Github **{{ ACCOUNT_AGE }}** years ago, how can there be there be a commit over 45 years old? That's because I backdated my first commit to 1980. I'm a time traveler. 😎
+<hr>
+
+###
+
+Wait... If I joined Github **0** years ago, how can there be there be a commit over 45 years old? That's because I backdated my first commit to 1980. I'm a time traveler. 😎
 
 Actually, I'm not a time traveler. I just wanted to make my Github profile look cool. 😅 The command you run to get this is:
 ```bash
