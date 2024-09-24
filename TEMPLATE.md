@@ -39,6 +39,10 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 ###
 
+<hr>
+
+###
+
 Wait... If I joined Github **{{ ACCOUNT_AGE }}** years ago, how can there be there be a commit over 45 years old? That's because I backdated my first commit to 1980. I'm a time traveler. 😎
 
 Actually, I'm not a time traveler. I just wanted to make my Github profile look cool. 😅 The command you run to get this is:
