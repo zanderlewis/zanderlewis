@@ -1,0 +1,50 @@
+name: Stats/Age
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *' # every hour
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    - name: Install Dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick
+    - name: Generate README.md
+      uses: teoxoy/profile-readme-stats@v3
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+    - name: Calculate age
+      run: |
+        export DISPLAY=:99
+        nohup Xvfb :99 -screen 0 1024x768x24 &
+        python -c "
+        import datetime
+        birth_date = datetime.date(2008, 9, 14)
+        today = datetime.date.today()
+        age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
+        with open('README.md', 'r') as template_file:
+            template_content = template_file.read()
+        updated_content = template_content.replace('{{age}}', str(age))
+        with open('README.md', 'w') as readme_file:
+            readme_file.write(updated_content)
+        print(f'Calculated Age: {age}')
+        "
+    - name: Update README.md
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config --global user.name 'Zander Lewis'
+        git config --global user.email 'zander@zanderlewis.dev'
+        git add .
+        git commit -m "[BOT] Update README"
+        git push
+        fi
