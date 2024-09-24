@@ -39,7 +39,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 ###
 
-Wait... If I joined Github **{{ ACCOUNT_AGE }}** years ago, how can I be there be a commit over 45 years old? That's because I backdated my first commit to 1980. I'm a time traveler. 😎
+Wait... If I joined Github **{{ ACCOUNT_AGE }}** years ago, how can there be there be a commit over 45 years old? That's because I backdated my first commit to 1980. I'm a time traveler. 😎
 
 Actually, I'm not a time traveler. I just wanted to make my Github profile look cool. 😅 The command you run to get this is:
 ```bash
@@ -48,7 +48,6 @@ GIT_COMMITTER_DATE="1980-01-01T12:00:00" git commit --date="1980-01-01T12:00:00"
 git push origin main
 ```
 This will set the commit date to January 1, 1980. You can set the date to any date you want. 😄
-
 
 ###
 
