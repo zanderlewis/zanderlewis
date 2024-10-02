@@ -111,6 +111,10 @@ This will set the commit date to January 1, 1980. You can set the date to any da
 
 ###
 
+![Readme Stats](https://github-readme-stats-one-bice.vercel.app/api?username=zanderlewis&theme=transparent&show_icons=true)
+
+###
+
 <h1 align="center">Spotify</h1>
 
 ###
