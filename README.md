@@ -22,9 +22,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/2f94f83c-7859-4053-a093-81ba6053e5e3.svg)](https://wakatime.com/@2f94f83c-7859-4053-a093-81ba6053e5e3)
 
+[![Holopin](https://holopin.me/zanderlewis)](https://holopin.io/@zanderlewis)
+
 ###
 
-### Number of the hour: -253635
+### Number of the hour: {{number_of_the_hour}}
 
 </div>
 
@@ -35,7 +37,7 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **2779** commits, opened **22** issues, submitted **97** pull requests, received **137** stars across **67** personal projects and contributed to **66** public repositories.
+Since then I pushed **2782** commits, opened **22** issues, submitted **97** pull requests, received **137** stars across **67** personal projects and contributed to **66** public repositories.
 
 ###
 
