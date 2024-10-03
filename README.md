@@ -24,7 +24,7 @@
 
 ###
 
-### Number of the hour: -465760
+### Number of the hour: {{number_of_the_hour}}
 
 </div>
 
@@ -35,7 +35,7 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **2774** commits, opened **22** issues, submitted **97** pull requests, received **137** stars across **67** personal projects and contributed to **66** public repositories.
+Since then I pushed **2779** commits, opened **22** issues, submitted **97** pull requests, received **137** stars across **67** personal projects and contributed to **66** public repositories.
 
 ###
 
@@ -107,11 +107,15 @@ This will set the commit date to January 1, 1980. You can set the date to any da
 
 ###
 
-<img src="https://raw.githubusercontent.com/zanderlewis/zanderlewis/output/snake.svg" alt="Snake animation" />
+<div align="center">
+
+![Readme Stats](https://github-readme-stats-one-bice.vercel.app/api?username=zanderlewis&theme=transparent&show_icons=true)
+
+</div>
 
 ###
 
-![Readme Stats](https://github-readme-stats-one-bice.vercel.app/api?username=zanderlewis&theme=transparent&show_icons=true)
+<img src="https://raw.githubusercontent.com/zanderlewis/zanderlewis/output/snake.svg" alt="Snake animation" />
 
 ###
 
