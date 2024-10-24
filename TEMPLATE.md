@@ -95,6 +95,7 @@ This will set the commit date to January 1, 1980. You can set the date to any da
   <ul>
     <li>Max in <a href="https://maxsslimeshop.com">Max's Slime Shop</a></li>
     <li>Chris on <a href="https://github.com/chrisnetonline">Github</a></li>
+    <li>Quinn in <a href="https://www.etsy.com/shop/LewisMetalDesigns">Lewis Metal Designs</a></li>
   </ul>
 </div>
 
