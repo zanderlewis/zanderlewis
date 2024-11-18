@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"  />
+  <img height="150" width="300" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-### Number of the hour: 576647
+### Number of the hour: {{number_of_the_hour}}
 
 </div>
 
@@ -37,7 +37,7 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **4074** commits, opened **27** issues, submitted **111** pull requests, received **122** stars across **78** personal projects and contributed to **60** public repositories.
+Since then I pushed **4079** commits, opened **27** issues, submitted **111** pull requests, received **122** stars across **78** personal projects and contributed to **61** public repositories.
 
 ###
 
