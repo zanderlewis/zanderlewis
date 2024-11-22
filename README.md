@@ -26,7 +26,7 @@
 
 ###
 
-### Number of the hour: {{number_of_the_hour}}
+### Number of the hour: -119290
 
 </div>
 
