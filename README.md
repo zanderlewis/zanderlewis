@@ -26,7 +26,7 @@
 
 ###
 
-### Number of the hour: -236831
+### Number of the hour: {{number_of_the_hour}}
 
 </div>
 
@@ -37,7 +37,7 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **4761** commits, opened **27** issues, submitted **111** pull requests, received **123** stars across **79** personal projects and contributed to **61** public repositories.
+Since then I pushed **4765** commits, opened **27** issues, submitted **111** pull requests, received **123** stars across **79** personal projects and contributed to **61** public repositories.
 
 ###
 
@@ -61,7 +61,7 @@ This will set the commit date to January 1, 1980. You can set the date to any da
 
 ###
 
-<p align="left">I'm Zander Lewis, a <b>{{age}}</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel, C, and Rust.<br>- ⚡ In my free time I prefer to code than play video games.<br><br>I am also a <a href="https://www.mersenne.org">GIMPS volunteer</a></p>
+<p align="left">I'm Zander Lewis, a <b>16</b> year old, and...<br><br>- 🔭 I’m small open source developer.<br>- 📚 I'm currently learning Laravel, C, and Rust.<br>- ⚡ In my free time I prefer to code than play video games.<br><br>I am also a <a href="https://www.mersenne.org">GIMPS volunteer</a></p>
 
 ###
 
