@@ -26,7 +26,7 @@
 
 ###
 
-### Number of the hour: -420590
+### Number of the hour: {{number_of_the_hour}}
 
 </div>
 
@@ -37,7 +37,7 @@
 
 I joined Github **0** years ago.
 
-Since then I pushed **5386** commits, opened **28** issues, submitted **103** pull requests, received **129** stars across **83** personal projects and contributed to **43** public repositories.
+Since then I pushed **5388** commits, opened **28** issues, submitted **103** pull requests, received **129** stars across **83** personal projects and contributed to **43** public repositories.
 
 ###
 
