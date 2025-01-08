@@ -1,4 +1,4 @@
-name: Stats/Age
+name: CRON Job
 
 on:
   workflow_dispatch:
@@ -37,8 +37,15 @@ jobs:
         updated_content = template_content.replace('{{age}}', str(age))
         with open('README.md', 'w') as readme_file:
             readme_file.write(updated_content)
-        print(f'Calculated Age: {age}')
+        print(f'Calculated Age: {age}').
         "
+    - name: Set up Rust
+      uses: actions-rs/toolchain@v1
+      with:
+        toolchain: stable
+        override: true
+    - name: Run num_of_hour script
+      run: cargo run --release
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
