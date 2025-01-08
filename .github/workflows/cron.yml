@@ -37,7 +37,7 @@ jobs:
         updated_content = template_content.replace('{{age}}', str(age))
         with open('README.md', 'w') as readme_file:
             readme_file.write(updated_content)
-        print(f'Calculated Age: {age}').
+        print(f'Calculated Age: {age}')
         "
     - name: Set up Rust
       uses: actions-rs/toolchain@v1
