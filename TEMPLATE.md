@@ -63,6 +63,8 @@
   <img src="https://raw.githubusercontent.com/zanderlewis/zanderlewis/output/snake.svg" alt="Snake animation" />
 
   ###
-
-  <a href="https://app.daily.dev/zanderlewis"><img src="https://api.daily.dev/devcards/v2/8j2T3Uc8ox5elT3KvX7fs.png?r=32g&type=default" width="356" alt="Zander Lewis's Dev Card"/></a>
+  
+  <div align="center">
+    <a href="https://app.daily.dev/zanderlewis"><img src="https://api.daily.dev/devcards/v2/8j2T3Uc8ox5elT3KvX7fs.png?r=32g&type=default" width="356" alt="Zander Lewis's Dev Card"/></a>
+  </div>
 </details>
