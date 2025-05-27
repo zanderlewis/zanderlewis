@@ -18,6 +18,29 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
+      
+      - name: Update age in README
+        run: |
+          # Calculate age based on birthdate 09/14/2008
+          birthdate="20080914"
+          today=$(date +%Y%m%d)
+          birth_year=${birthdate:0:4}
+          birth_month=${birthdate:4:2}
+          birth_day=${birthdate:6:2}
+          today_year=$(date +%Y)
+          today_month=$(date +%m)
+          today_day=$(date +%d)
+          
+          # Calculate age
+          age=$((today_year - birth_year))
+          
+          # Adjust age if birthday hasn't occurred yet this year
+          if [[ $(date -d "$today_year-$birth_month-$birth_day" +%s) > $(date +%s) ]]; then
+            age=$((age - 1))
+          fi
+          
+          # Replace `_{_{age}_}_` in README.md with calculated age
+          sed -i "s/_{_{age}_}_/$age/g" README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
