@@ -21,10 +21,6 @@
 
 ###
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
-###
-
 <h3 align="left">Family:</h3>
 
 ###

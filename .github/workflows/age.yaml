@@ -1,24 +1,17 @@
-name: Update README
+name: Update Age in README
 
 on:
   push:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
 
 jobs:
-  markscribe:
+  update-age:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@master
 
-      - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
-      
       - name: Update age in README
         run: |
           # Calculate age based on birthdate 09/14/2008
@@ -39,15 +32,15 @@ jobs:
             age=$((age - 1))
           fi
           
-          # Replace `_{_{age}_}_` in README.md with calculated age
-          sed -i "s/_{_{age}_}_/$age/g" README.md
+          # Read from template and replace `_{_{age}_}_` with calculated age
+          cat templates/README.md.tpl | sed "s/_{_{age}_}_/$age/g" > README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: Update age in README
           branch: main
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: age-bot 🤖
           commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_author: age-bot 🤖 <actions@github.com>
