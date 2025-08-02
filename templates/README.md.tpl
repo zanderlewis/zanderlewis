@@ -13,8 +13,8 @@
   "name": "Zander Lewis",
   "age": _{_{age}_}_,
   "location": "United States",
-  "languages": ["Python", "PHP", "Rust", "C"],
-  "learning": ["Rust", "C"],
+  "languages": ["Python", "PHP", "C"],
+  "learning": ["Rust", "C", "Java"],
   "interests": ["Open Source", "Programming", "Technology"]
 }
 ```
