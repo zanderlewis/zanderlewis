@@ -16,7 +16,12 @@
   "location": "United States",
   "languages": ["Python", "PHP", "C"],
   "learning": ["Rust", "C", "Java"],
-  "interests": ["Open Source", "Programming", "Technology"]
+  "interests": ["Open Source", "Programming", "Technology"],
+  "os": {
+    "current": "Windows 11",
+    "preferred": "Ubuntu Linux",
+    "want": "Garuda Linux - Hyprland"
+  }
 }
 ```
 
