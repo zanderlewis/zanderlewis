@@ -1,6 +1,9 @@
-# [ RUST ] #
-target
-Cargo.lock
+# [ PYTHON ] #
+__pycache__/
 
 # [ OS ] #
 .DS_Store
+
+# [ IDE ]
+.vscode/
+.idea/

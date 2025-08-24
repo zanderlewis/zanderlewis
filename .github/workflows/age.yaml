@@ -12,28 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
       - name: Update age in README
         run: |
-          # Calculate age based on birthdate 09/14/2008
-          birthdate="20080914"
-          today=$(date +%Y%m%d)
-          birth_year=${birthdate:0:4}
-          birth_month=${birthdate:4:2}
-          birth_day=${birthdate:6:2}
-          today_year=$(date +%Y)
-          today_month=$(date +%m)
-          today_day=$(date +%d)
-          
-          # Calculate age
-          age=$((today_year - birth_year))
-          
-          # Adjust age if birthday hasn't occurred yet this year
-          if [[ $(date -d "$today_year-$birth_month-$birth_day" +%s) > $(date +%s) ]]; then
-            age=$((age - 1))
-          fi
-          
-          # Read from template and replace `_{_{age}_}_` with calculated age
-          cat templates/README.md.tpl | sed "s/_{_{age}_}_/$age/g" > README.md
+          python3 scripts/update_age.py
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
@@ -41,6 +27,6 @@ jobs:
         with:
           commit_message: Update age in README
           branch: main
-          commit_user_name: age-bot 🤖
+          commit_user_name: Actions 🤖
           commit_user_email: actions@github.com
-          commit_author: age-bot 🤖 <actions@github.com>
+          commit_author: Actions 🤖 <actions@github.com>
