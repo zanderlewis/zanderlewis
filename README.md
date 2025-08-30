@@ -21,7 +21,7 @@
     "current": "Windows 11",
     "preferred": "Ubuntu Linux",
     "want": "Garuda Linux - Hyprland",
-"working_on": "Windfall Linux"
+    "working_on": "Windfall Linux"
   }
 }
 ```
