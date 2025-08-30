@@ -14,13 +14,14 @@
   "age": 16,
   "days_until_birthday": 15,
   "location": "United States",
-  "languages": ["Python", "PHP", "C"],
+  "languages": ["Python", "PHP"],
   "learning": ["Rust", "C", "Java"],
-  "interests": ["Open Source", "Programming", "Technology"],
+  "interests": ["Open Source", "Programming", "Technology", "Cybersecurity"],
   "os": {
     "current": "Windows 11",
     "preferred": "Ubuntu Linux",
-    "want": "Garuda Linux - Hyprland"
+    "want": "Garuda Linux - Hyprland",
+		"working_on": "Windfall Linux"
   }
 }
 ```
@@ -42,7 +43,7 @@
 
 <details>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanderlewis&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=6&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zanderlewis&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=8&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
   </div>
 
   ###
