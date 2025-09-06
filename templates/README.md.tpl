@@ -21,7 +21,7 @@
     "current": "Windows 11",
     "preferred": "Ubuntu Linux",
     "want": "NixOS",
-    "working_on": "WindfallOS"
+    "working_on": "Windfall Linux"
   }
 }
 ```
