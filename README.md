@@ -20,8 +20,8 @@
   "os": {
     "current": "Windows 11",
     "preferred": "Ubuntu Linux",
-    "want": "Wayland Fedora Linux",
-    "working_on": "Windfall Linux"
+    "want": "NixOS",
+    "working_on": "WindfallOS"
   }
 }
 ```
