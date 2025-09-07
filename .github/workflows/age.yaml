@@ -1,32 +1,16 @@
-name: Update Age in README
+# Workflow to run a scheduled job
+
+name: Scheduled Job
 
 on:
-  push:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: '0 5 * * *' # Runs at midnight EST without DST
 
 jobs:
-  update-age:
+  run:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@master
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.12'
-
-      - name: Update age in README
-        run: |
-          python3 scripts/update_age.py
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update age in README
-          branch: main
-          commit_user_name: Actions 🤖
-          commit_user_email: actions@github.com
-          commit_author: Actions 🤖 <actions@github.com>
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run script
+        run: echo 'Running scheduled job'
