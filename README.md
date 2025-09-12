@@ -12,7 +12,7 @@
 {
   "name": "Zander Lewis",
   "age": 16,
-  "days_until_birthday": 3,
+  "days_until_birthday": 2,
   "location": "United States",
   "languages": ["Python", "PHP"],
   "learning": ["Rust", "C", "Java"],
