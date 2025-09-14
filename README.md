@@ -11,8 +11,8 @@
 ```json
 {
   "name": "Zander Lewis",
-  "age": 16,
-  "days_until_birthday": 1,
+  "age": 17,
+  "days_until_birthday": 365,
   "location": "United States",
   "languages": ["Python", "PHP"],
   "learning": ["Rust", "C", "Java"],
