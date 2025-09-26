@@ -15,12 +15,12 @@
   "days_until_birthday": _{_{days_until}_}_,
   "location": "United States",
   "languages": ["Python", "PHP"],
-  "learning": ["Rust", "C", "Java"],
+  "learning": ["Rust", "Java"],
   "interests": ["Open Source", "Programming", "Technology", "Cybersecurity"],
   "os": {
-    "current": "Windows 11",
-    "preferred": "Ubuntu Linux",
-    "want": "NixOS",
+    "current": "NixOS",
+    "preferred": "NixOS",
+    "hate": "Windows 10/11",
     "working_on": "Windfall Linux"
   }
 }
