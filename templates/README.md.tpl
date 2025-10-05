@@ -16,8 +16,12 @@
   "location": "United States",
   "languages": ["Python", "PHP"],
   "learning": ["Rust", "Java", "Zig"],
-  "interests": ["Open Source", "Programming",
-                "Technology", "Cybersecurity"],
+  "interests": [
+    "Open Source",
+    "Programming",
+    "Technology",
+    "Cybersecurity"
+  ],
   "os": {
     "current": "NixOS",
     "preferred": "NixOS",
