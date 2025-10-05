@@ -17,7 +17,7 @@
   "languages": ["Python", "PHP"],
   "learning": ["Rust", "Java", "Zig"],
   "interests": ["Open Source", "Programming",
-								"Technology", "Cybersecurity"],
+                "Technology", "Cybersecurity"],
   "os": {
     "current": "NixOS",
     "preferred": "NixOS",
