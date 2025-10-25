@@ -23,8 +23,7 @@
     "Cybersecurity"
   ],
   "os": {
-    "current": "NixOS",
-    "preferred": "NixOS",
+    "current": "Omarchy",
     "hate": "Windows 10/11",
   }
 }
