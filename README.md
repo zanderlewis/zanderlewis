@@ -15,7 +15,7 @@
   "days_until_birthday": 288,
   "location": "United States",
   "languages": ["Python", "PHP"],
-  "learning": ["Rust", "Java", "Zig"],
+  "learning": ["Rust", "Java"],
   "interests": [
     "Open Source",
     "Programming",
@@ -24,7 +24,8 @@
   ],
   "os": {
     "current": "Omarchy",
-    "hate": "Windows 10/11",
+    "hate": "Windows",
+    "making": "JourneyOS"
   }
 }
 ```
