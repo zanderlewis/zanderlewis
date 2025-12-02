@@ -10,15 +10,15 @@ TEMPLATES = {
 }
 
 # Get the current UTC time
-utc_now = datetime.datetime.utcnow()
+utc_now = datetime.datetime.now(datetime.timezone.utc)
 
 # Determine if Eastern Time is in Daylight Saving Time (DST)
 # Use the second Sunday in March as the start of DST
 # Use the first Sunday in November as the end of DST
 year = utc_now.year
-dst_start = datetime.datetime(year, 3, 8, 2)  # Second Sunday in March
+dst_start = datetime.datetime(year, 3, 8, 2, tzinfo=datetime.timezone.utc)  # Second Sunday in March
 dst_start += datetime.timedelta(days=(6 - dst_start.weekday()))  # Adjust to the second Sunday
-dst_end = datetime.datetime(year, 11, 1, 2)  # First Sunday in November
+dst_end = datetime.datetime(year, 11, 1, 2, tzinfo=datetime.timezone.utc)  # First Sunday in November
 dst_end += datetime.timedelta(days=(6 - dst_end.weekday()))  # Adjust to the first Sunday
 
 # Check if we're in DST
