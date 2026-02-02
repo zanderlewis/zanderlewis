@@ -15,17 +15,19 @@
   "days_until_birthday": 224,
   "location": "United States",
   "languages": ["Python", "PHP"],
-  "learning": ["Rust", "Java"],
+  "learning": ["Rust", "Java", "Go"],
   "interests": [
     "Open Source",
     "Programming",
     "Technology",
-    "Cybersecurity"
+    "Language Transpilation"
   ],
   "os": {
-    "current": "Omarchy",
-    "hate": "Windows",
-    "making": "JourneyOS"
+    "current": "Fedora COSMIC 43",
+    "hate": [
+			"Windows",
+			"Omarchy Linux"
+		]
   }
 }
 ```
