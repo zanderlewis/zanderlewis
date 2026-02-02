@@ -25,9 +25,9 @@
   "os": {
     "current": "Fedora COSMIC 43",
     "hate": [
-"Windows",
-"Omarchy Linux"
-]
+      "Windows",
+      "Omarchy Linux"
+    ]
   }
 }
 ```
