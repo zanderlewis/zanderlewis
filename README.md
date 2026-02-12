@@ -13,14 +13,15 @@
   "name": "Zander Lewis",
   "age": 17,
   "days_until_birthday": 214,
-  "location": "United States",
+  "location": "Asheville, NC",
   "languages": ["Python", "PHP"],
   "learning": ["Rust", "Java", "Go"],
   "interests": [
-    "Open Source",
     "Programming",
     "Technology",
-    "Language Transpilation"
+    "Language Transpilation",
+    "Quantum Physics/Mechanics",
+    "Particle Physics"
   ],
   "os": {
     "current": "Fedora COSMIC 43",
