@@ -12,7 +12,7 @@
 {
   "name": "Zander Lewis",
   "age": 17,
-  "days_until_birthday": 213,
+  "days_until_birthday": 212,
   "location": "Asheville, NC",
   "languages": ["Python", "PHP"],
   "learning": ["Rust", "Java", "Go"],
