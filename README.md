@@ -13,13 +13,12 @@
   "name": "Zander Lewis",
   "age": 17,
   "days_until_birthday": 186,
-  "location": "Asheville, NC",
+  "location": "Candler, NC",
   "languages": ["Python", "PHP"],
-  "learning": ["Rust", "Java", "Go"],
+  "learning": ["Elixir"],
   "interests": [
     "Programming",
     "Technology",
-    "Language Transpilation",
     "Quantum Physics/Mechanics",
     "Particle Physics"
   ],
