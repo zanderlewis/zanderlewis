@@ -12,7 +12,7 @@
 {
   "name": "Zander Lewis",
   "age": 17,
-  "days_until_birthday": 142,
+  "days_until_birthday": 141,
   "location": "Candler, NC",
   "languages": ["Python", "PHP"],
   "learning": ["Elixir"],
