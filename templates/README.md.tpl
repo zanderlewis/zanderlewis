@@ -14,8 +14,8 @@
   "age": _{_{age}_}_,
   "days_until_birthday": _{_{days_until}_}_,
   "location": "Candler, NC",
-  "languages": ["Python", "PHP"],
-  "learning": ["Elixir"],
+  "languages": ["Crystal"],
+  "learning": ["Crystal"],
   "interests": [
     "Programming",
     "Technology",
@@ -23,7 +23,7 @@
     "Particle Physics"
   ],
   "os": {
-    "current": "Fedora COSMIC 43",
+    "current": "Kubuntu 26.04",
     "hate": [
       "Windows",
       "Omarchy Linux"
