@@ -14,8 +14,8 @@
   "age": _{_{age}_}_,
   "days_until_birthday": _{_{days_until}_}_,
   "location": "Candler, NC",
-  "languages": ["Crystal"],
-  "learning": ["Crystal"],
+  "languages": [],
+  "learning": ["Crystal", "D", "Scala"],
   "interests": [
     "Programming",
     "Technology",
