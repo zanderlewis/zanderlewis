@@ -11,8 +11,8 @@
 ```json
 {
   "name": "Zander Lewis",
-  "age": 17,
-  "days_until_birthday": 1,
+  "age": 18,
+  "days_until_birthday": 365,
   "location": "Candler, NC",
   "languages": [],
   "learning": ["Crystal", "D", "Scala"],
