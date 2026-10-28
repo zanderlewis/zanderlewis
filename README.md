@@ -12,7 +12,7 @@
 {
   "name": "Zander Lewis",
   "age": 18,
-  "days_until_birthday": 322,
+  "days_until_birthday": 321,
   "location": "Candler, NC",
   "languages": [],
   "learning": ["Crystal", "D", "Scala"],
